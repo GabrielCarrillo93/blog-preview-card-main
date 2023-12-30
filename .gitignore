@@ -4,7 +4,6 @@
 #####################################################
 *.sketch
 *.fig
-dessign
 # Avoid accidental XD upload if you convert the design file
 ###############################################
 ## Please do not remove line 12 - thanks! 🙂 ##
@@ -14,3 +13,5 @@ dessign
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+/design
